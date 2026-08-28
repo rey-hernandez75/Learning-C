@@ -1,1 +1,9 @@
+# Ejecutables de los programas
 bienvenida
+main
+
+# Archivos objeto
+*.o
+
+# Archivos temporales de editores
+*~
