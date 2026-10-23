@@ -2,15 +2,11 @@
 
 ## Objective
 
-## Objective
-
 This program demonstrates the basic data types available in the C programming language and displays the size, in bytes, of each one.
 
 A total of 18 variables representing the basic C data types were declared and initialized.
 
 ---
-
-## Topics Covered
 
 ## Topics Covered
 
@@ -52,8 +48,6 @@ gcc -Wall -Wextra -pedantic -std=c17 -o tipos_var_01 tipos_var_01.c
 ![Program Output](images/salida_tipos_var_01.png)
 
 ---
-
-## Notes
 
 ## Notes
 
