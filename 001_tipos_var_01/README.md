@@ -1,4 +1,4 @@
-# 001 - Lesson Title
+# 001 - Basic Data Types and sizeof Operator
 
 ## Objective
 
