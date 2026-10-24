@@ -1,4 +1,4 @@
-# 002 - Binary Aritmethic Operators width Integers
+# 002 - Binary Aritmethic Operators with Integers
 
 ## Objective
 
