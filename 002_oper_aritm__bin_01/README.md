@@ -1,4 +1,4 @@
-# 001 - Lesson Title
+# 002 - Binary Aritmethic Operators width Integers
 
 ## Objective
 
