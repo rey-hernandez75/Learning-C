@@ -1,6 +1,7 @@
 # Ejecutables de los programas
-bienvenida
-main
+
+# Compiled executables
+bin/
 
 # Archivos objeto
 *.o
